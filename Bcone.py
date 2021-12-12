@@ -75,11 +75,13 @@ def hero():
         return check
     clear()
     y=1
+    clear()
     newperiod=period
-    banner='figlet Mantri Bcone|lolcat'
+    banner='figlet IDFC Bcone|lolcat'
     numbers=[]
     while(y):
         clear()
+        banner='figlet IDFC Bcone|lolcat'
         system(banner)
         print("Contact me on telegram @IDFCMONEY")
         print("Enter ",newperiod," Bcone Price :")
@@ -111,7 +113,7 @@ def hero():
             y=False
         if (len(numbers)>11):
             clear()
-            system('figlet Thank you!!|lolcat')
+            system('figlet Thank You!!|lolcat')
             print("Play on next specified time!!")
             print("-----------Current Time UP----------")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
@@ -144,14 +146,14 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet Mantri Bcone|lolcat'
+        banner='figlet IDFC Bcone|lolcat'
         system(banner)
-        #print("Hi!! Thanks for buying the hack")
-        print("Hi! thanks for trying our DEMO")
+        print("Hi!! Thanks for buying the hack")
+        #print("Hi! thanks for trying our DEMO")
         print("----------Your play time-----------")
         #print("31st Aug 2021, 11:00 AM- 11:30 AM")
         #print("31st Aug 2021, 02:00 PM- 02:30 PM")
-        print("23rd Sept 2021, 04:00 PM- 04:30 PM")
+        print("12th Dec 2021, 04:00 PM- 04:30 PM")
         #print("31st Aug 2021, 08:00 PM- 08:30 PM")
         print("Please play on the given time, and ")
         print("If you think it is an error contact")
@@ -169,9 +171,9 @@ else:
             _ = system('clear')
     code="SUCK"
     test="LOLISLIFE"
-    night="LIFEIDLOL"
+    night="LIFEISLOL"
     nextday="FUCK"
-    banner='figlet Mantri Bcone|lolcat'
+    banner='figlet IDFC Bcone|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -182,45 +184,57 @@ else:
     Finalend = now.replace(hour=22, minute=35, second=0, microsecond=0)
 
     if(now>Second and now<Secondend):
-            rava=290
+            rava=0
     elif(now>Third and now<Thirdend):
-            rava=350
+            rava=300
     elif(now>Final and now<Finalend):
             rava=410
     system(banner)
     print("*---------*----------*-------------*----------*")
-    print("Your hack has expired--- Please contact")
-    print(" on telegram ----@IDFCMONEY for activating")
+    print("To Know The Password --- Contact me")
+    print(" on telegram ----@IDFCMONEY ")
     print(" Recharge Amount :        Total limit " )
-    print(" 1.     100 INR -------  1 Day (10 Games")
-    print(" 2.     500 INR -------  7 Days(50 Games")
-    print("*---------*----------*-------------*----------*")
+    print(" 1.     100 INR -------  1 Day (10 Games)")
+    print(" 2.     500 INR -------  7 Days(50 Games)")
+    print("*---------*----------*-------------*----------*---------*---------*")
     print("Your custom hack can be made request from us.")
     print("Beware of fraudsters!!!")
     while(True):
-        print("My banking name is IDFC")
-        print("If you send to any other name , then IT IS SCAMMM")
-        print("--------*--------*----------*---------")
-        print("send payment only to IDFC ")
-        print("payhere--- UPI : ")
-        print("UPI1 : N/A")
-        print("UPI2 : N/A")
-        print("If you have already paid to above UPI")
-        print("Please Enter your 12 Digit \n UPI reference number ")
-        print("or please Enter Correct activation code for 8:30 PM ")
+        print("*--------*--------*----------*---------*---------*")
+        print("Hi, IDFC Here")
+        print("If you send Payment to any other Person On Telegram ,")
+        print(" then IT IS A SCAMMM")
+        print("Send payment only to IDFC ")
+        print("Only I Have Hack , Others Only Scam")
+        print("Don't Believe Any One Who Says ")
+        print("I Have Hack And Sends You Only ")
+        print("Fake ScreenShots Or Edited Ones")
+        print("For Payments Message Me Before Sending ")
+        print("*---------*----------*-------------*----------*")
+        
+        print("            Things Under Maintenence           ")      
+        print("Automatic Recharge :  Under Maintenence")
+        print("Please Ignore Play Timings They Are Under Maintenence")
+        print("*---------*----------*-------------*----------*")
+        
+        
+        print("Enter Correct activation code for Opening Hack ")
         bhai=input(": ")
         if(bhai==code or bhai==test):
             clear()
+            banner='figlet IDFC Bcone|lolcat'
+            system(banner)
             print("----------Your play time-----------")
-            print("11th Dec 2021, 02:30 PM- 03:00 PM")
-            print("11th Dec 2021, 05:30 PM- 06:00 PM")
-            print("11th Dec 2021, 08:30 PM- 09:00 PM")
+            print("13th Dec 2021, 02:30 PM- 03:00 PM")
+            print("13th Dec 2021, 05:30 PM- 06:00 PM")
+            print("13th Dec 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
             print("me on telegram @IDFCMONEY")
-            print("wait.... starting....")
+            print("*---------*----------*-------------*----------*")
+            print("...............Booting Hack .................")
             time.sleep(20)
-            period=rava
+            period=0
             hero()
             #print("Today Server is off because I am out ")
             #rint(" of town, Tomorrow It will work as usual.")
@@ -231,36 +245,40 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet Mantri Bcone|lolcat'
+            banner='figlet IDFC Bcone|lolcat'
             system(banner)
             print("----------Your play time-----------")
-            print("8th-14th Dec 2021, 02:30 PM- 03:00 PM")
-            print("8th-14th Dec 2021, 06:00 PM- 06:30 PM")
-            print("8th-14th Dec 2021, 08:30 PM- 09:00 PM")
+            print("1st-30th Dec 2021, 02:30 PM- 03:00 PM")
+            print("1st-30th Dec 2021, 06:00 PM- 06:30 PM")
+            print("1st-30th Dec 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
-            print("wait.... starting....")
+            print("*---------*----------*-------------*----------*")
+            print("...............Booting Hack .................")
             time.sleep(20)
-            period=rava
+            period=300
             hero()
             #period("Sorry too many people(>20) using hack in same time ")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==night):
             clear()
+            banner='figlet IDFC Bcone|lolcat'
+            system(banner)
             print("----------Your play time-----------")
-            print("9th Dec 2021,  08:30 PM- 09:00 PM")
-            print("10th Dec 2021, 08:30 PM- 09:00 PM")
+            print("10th Dec 2021,  08:30 PM- 09:00 PM")
             print("11th Dec 2021, 08:30 PM- 09:00 PM")
+            print("12th Dec 2021, 08:30 PM- 09:00 PM")
             print("Please play on the given time, and ")
             print("If you think it is an error contact")
-            print("wait.... starting....")
+            print("*---------*----------*-------------*----------*")
+            print("...............Booting Hack .................")
             time.sleep(20)
             period=410
             hero()
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         else:
             clear()
-            banner='figlet Mantri Bcone|lolcat'
+            banner='figlet IDFC Bcone|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
      
